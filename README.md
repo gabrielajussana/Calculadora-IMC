@@ -8,3 +8,5 @@
 <li>CSS</li>
 <li> JavaScript</li>
 <ul>
+<h3>✨Layout</h3>
+<img src="/CalculadoraIMC.png"/>
